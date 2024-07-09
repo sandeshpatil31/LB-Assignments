@@ -21,11 +21,11 @@ int main()
 	bResult=checkMultiple(iNum);
 	if(bResult==true)
 	{
-		printf("Number is multiple of 3 and 9 \n");
+		printf("Number is multiple of 2,3 and 9 \n");
 	}
 	else
 	{
-		printf("Number is not multiple of 3 and 9 \n");
+		printf("Number is not multiple of 2,3 and 9 \n");
 	}
 	return 0;
 
